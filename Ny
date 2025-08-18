@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Min profil</title>
+    <style>
+        body {
+            font-family: Arian, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #0066cc;
+        }
+
+        img {
+            list-style-type: square;
+        }
+
+        p {
+            max-width: 400px;
+        }
+    </style>
+</html>
+<body>
+
+
+    <h1> Mitt Navn</h1>
+
+    <img src="https://placeholder.com/200" alt="Profilbilde">
+
+    <p> Hei! Jeg heter Adrian. Jeg lærer HTML og CSS. Det er gøy å lage en egen nettside!</p>
+
+    <h2>Mine favorittaktiviteter</h2>
+    <ul>
+        <li>Spille spill</li>   
+        <li>Se på film</li>
+        <li>Gå tur</li>
+    </ul>
+
+</body>
+</html>
